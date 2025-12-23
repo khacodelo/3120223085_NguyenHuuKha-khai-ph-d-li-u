@@ -15,7 +15,6 @@
 - ex9.py
 - ex10.py
 - knn_ex2b.py
-- (các file PDF/PPTX nếu có)
 
 ## 3. Cách chạy chương trình
 ### 3.1. Kiểm tra Python
